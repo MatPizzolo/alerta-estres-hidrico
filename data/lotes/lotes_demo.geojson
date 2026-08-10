@@ -1,0 +1,438 @@
+{
+ "type": "FeatureCollection",
+ "name": "lotes_demo",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L01",
+    "zona": "Pergamino",
+    "area_ha": 96.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.456486,
+       -33.803593
+      ],
+      [
+       -60.443514,
+       -33.803593
+      ],
+      [
+       -60.443514,
+       -33.796407
+      ],
+      [
+       -60.456486,
+       -33.796407
+      ],
+      [
+       -60.456486,
+       -33.803593
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L02",
+    "zona": "Pergamino",
+    "area_ha": 90.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.705415,
+       -33.954042
+      ],
+      [
+       -60.694585,
+       -33.954042
+      ],
+      [
+       -60.694585,
+       -33.945958
+      ],
+      [
+       -60.705415,
+       -33.945958
+      ],
+      [
+       -60.705415,
+       -33.954042
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L03",
+    "zona": "Pergamino",
+    "area_ha": 63.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.524877,
+       -34.023144
+      ],
+      [
+       -60.515123,
+       -34.023144
+      ],
+      [
+       -60.515123,
+       -34.016856
+      ],
+      [
+       -60.524877,
+       -34.016856
+      ],
+      [
+       -60.524877,
+       -34.023144
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L04",
+    "zona": "Pergamino",
+    "area_ha": 104.5,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.355953,
+       -33.904267
+      ],
+      [
+       -60.344047,
+       -33.904267
+      ],
+      [
+       -60.344047,
+       -33.895733
+      ],
+      [
+       -60.355953,
+       -33.895733
+      ],
+      [
+       -60.355953,
+       -33.904267
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L05",
+    "zona": "Rojas",
+    "area_ha": 80.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.855425,
+       -34.123593
+      ],
+      [
+       -60.844575,
+       -34.123593
+      ],
+      [
+       -60.844575,
+       -34.116407
+      ],
+      [
+       -60.855425,
+       -34.116407
+      ],
+      [
+       -60.855425,
+       -34.123593
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L06",
+    "zona": "Rojas",
+    "area_ha": 110.5,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.657064,
+       -34.253818
+      ],
+      [
+       -60.642936,
+       -34.253818
+      ],
+      [
+       -60.642936,
+       -34.246182
+      ],
+      [
+       -60.657064,
+       -34.246182
+      ],
+      [
+       -60.657064,
+       -34.253818
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L07",
+    "zona": "Rojas",
+    "area_ha": 81.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.784893,
+       -34.304042
+      ],
+      [
+       -60.775107,
+       -34.304042
+      ],
+      [
+       -60.775107,
+       -34.295958
+      ],
+      [
+       -60.784893,
+       -34.295958
+      ],
+      [
+       -60.784893,
+       -34.304042
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L08",
+    "zona": "Salto",
+    "area_ha": 82.5,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.155974,
+       -34.203369
+      ],
+      [
+       -60.144026,
+       -34.203369
+      ],
+      [
+       -60.144026,
+       -34.196631
+      ],
+      [
+       -60.155974,
+       -34.196631
+      ],
+      [
+       -60.155974,
+       -34.203369
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L09",
+    "zona": "Salto",
+    "area_ha": 100.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.335441,
+       -34.364492
+      ],
+      [
+       -60.324559,
+       -34.364492
+      ],
+      [
+       -60.324559,
+       -34.355508
+      ],
+      [
+       -60.335441,
+       -34.355508
+      ],
+      [
+       -60.335441,
+       -34.364492
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L10",
+    "zona": "Salto",
+    "area_ha": 76.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.205171,
+       -34.403593
+      ],
+      [
+       -60.194829,
+       -34.403593
+      ],
+      [
+       -60.194829,
+       -34.396407
+      ],
+      [
+       -60.205171,
+       -34.396407
+      ],
+      [
+       -60.205171,
+       -34.403593
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L11",
+    "zona": "Pergamino",
+    "area_ha": 84.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.606482,
+       -33.753144
+      ],
+      [
+       -60.593518,
+       -33.753144
+      ],
+      [
+       -60.593518,
+       -33.746856
+      ],
+      [
+       -60.606482,
+       -33.746856
+      ],
+      [
+       -60.606482,
+       -33.753144
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "L12",
+    "zona": "Rojas",
+    "area_ha": 85.0,
+    "nota": "Lote ilustrativo (no es propiedad identificada); refinar sobre Sentinel-2"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -60.905421,
+       -34.053818
+      ],
+      [
+       -60.894579,
+       -34.053818
+      ],
+      [
+       -60.894579,
+       -34.046182
+      ],
+      [
+       -60.905421,
+       -34.046182
+      ],
+      [
+       -60.905421,
+       -34.053818
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

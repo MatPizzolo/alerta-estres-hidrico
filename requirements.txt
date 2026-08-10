@@ -1,0 +1,8 @@
+earthengine-api>=0.1.400
+geemap>=0.32
+geopandas>=0.14
+matplotlib>=3.8
+pandas>=2.1
+streamlit>=1.32
+jupyterlab>=4.0
+mapclassify>=2.6

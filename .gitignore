@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Datos pesados: rasters, exports y descargas quedan fuera de git.
+# Solo se versionan GeoJSON chicos (lotes demo) y visuales finales en assets/.
+data/*
+!data/lotes/
+data/lotes/*
+!data/lotes/lotes_demo.geojson
+
+# Credenciales / entorno
+.env
+*.json.key
+service-account*.json
+
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
